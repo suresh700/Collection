@@ -7,7 +7,7 @@ public class ArraList {
 		ArrayList<String> a=new ArrayList<String>();
 		ArrayList a1=new ArrayList();
 		a.add("suresh");
-		a.add("anil");
+		// a.add("anil");
 		a1.add("hande");	
 		a1.add("ha");
 		a1.add(10);
